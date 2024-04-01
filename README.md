@@ -1,9 +1,12 @@
 # Event Planner app
-Open source desktop application for event planning with the ability to send email reminders using a Google account.
+## Open source desktop application for event planning with the ability to send email reminders using a Google account.
+Features of the application include logging into your Google account for notifications, a dark and light theme, two languages (English and Ukrainian), a scalable interface, creating, editing, deleting events (reminders) with the name, description, date and time of the event, email messages for notifications on them and the date and time of notification to the designated addresses
 
 Help for the application - https://docs.google.com/document/d/1yQYKMG--Q4hUG8daiSD0xcQOntGQ_f_nzOiG34x_KQE/edit?usp=sharing
 
+
 Download the compiled application here (Windows platform) - https://drive.google.com/file/d/174coCZJnsvAntqGNVsLGRl0sRFegqAI4/view?usp=sharing
+
 You can also download the compiled application and source code through releases on GitHub (below the repository description).
 
 ![Знімок екрана 2024-03-29 134334](https://github.com/DilerFeed/Event-Planner-app/assets/33964247/79b408bf-8fa3-40a5-9681-af0ce005a189)
