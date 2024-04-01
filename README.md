@@ -1,4 +1,4 @@
-# Event-Planner-app
+# Event Planner app
 Open source desktop application for event planning with the ability to send email reminders using a Google account.
 
 Help for the application - https://docs.google.com/document/d/1yQYKMG--Q4hUG8daiSD0xcQOntGQ_f_nzOiG34x_KQE/edit?usp=sharing
