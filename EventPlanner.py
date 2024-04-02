@@ -788,7 +788,7 @@ class EventPlannerApp:
                         data = response.json()
                         name = data.get('name')
                     
-                    # Создаем сообщение
+                    # Make message
                     message = MIMEText(f"{event.description}\nFrom {name} using Event Planner.")
                     message['to'] = ", ".join(event.emails)
                     message['subject'] = f"Reminder that event {event.title} will start on {event.date}!"
@@ -1763,7 +1763,7 @@ class EventPlannerAppUKR:
                         data = response.json()
                         name = data.get('name')
                     
-                    # Создаем сообщение
+                    # Make message
                     message = MIMEText(f"{event.description}\nВід {name} за допомогою Event Planner.")
                     message['to'] = ", ".join(event.emails)
                     message['subject'] = f"Нагадуємо, що подія {event.title} розпочнеться {event.date}!"
